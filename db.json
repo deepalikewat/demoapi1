@@ -99,16 +99,12 @@
       "human": "I need a hotel in New York"
     },
     {
-      "bot": "What dates",
-      "human": "October twentieth to twenty fifth"
-    },
-    {
       "bot": "Single or double room",
       "human": "Double, please"
     },
     {
       "bot": "How many guests",
-      "human": "Two guests"
+      "human": "Three"
     },
     {
       "bot": "Do you need breakfast included",
