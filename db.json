@@ -1,0 +1,180 @@
+{
+  "Intro": [
+    {
+      "bot": "Hi",
+      "human": "hello"
+    },
+    {
+      "bot": "good afternoon",
+      "human": "good morning"
+    }
+  ],
+  "Restaurant": [
+    {
+      "bot": "Hello, welcome",
+      "human": "Good afternoon"
+    },
+    {
+      "bot": "What would you like to order",
+      "human": "Tea and fish with grilled vegetables"
+    },
+    {
+      "bot": "Would you like water",
+      "human": "Yes, please"
+    },
+    {
+      "bot": "Do you need any dessert",
+      "human": "No, thank you"
+    },
+    {
+      "bot": "Would you prefer the fish grilled or fried",
+      "human": "Grilled"
+    },
+    {
+      "bot": "How spicy do you want it",
+      "human": "Mild, please"
+    },
+    {
+      "bot": "Any appetizers",
+      "human": "No, I am fine"
+    },
+    {
+      "bot": "How about a hot beverage with your meal",
+      "human": "Just the tea is fine"
+    },
+    {
+      "bot": "Would you like the bill now",
+      "human": "Yes, please"
+    },
+    {
+      "bot": "Thank you, enjoy your meal",
+      "human": "Thank you"
+    }
+  ],
+  "Vehicle": [
+    {
+      "bot": "Hi, what vehicle are you looking for",
+      "human": "I am interested in an SUV"
+    },
+    {
+      "bot": "Any brand in mind",
+      "human": "Not really"
+    },
+    {
+      "bot": "What features do you prefer",
+      "human": "Safety and fuel efficiency"
+    },
+    {
+      "bot": "How about hybrid models",
+      "human": "That sounds good"
+    },
+    {
+      "bot": "Would you like an automatic or manual transmission",
+      "human": "Automatic"
+    },
+    {
+      "bot": "Would you prefer a test drive",
+      "human": "Yes, this weekend"
+    },
+    {
+      "bot": "Any color preferences",
+      "human": "White or silver"
+    },
+    {
+      "bot": "Two-row or three-row seating",
+      "human": "Two-row"
+    },
+    {
+      "bot": "Any additional accessories needed",
+      "human": "No, just the basic ones"
+    },
+    {
+      "bot": "I will arrange everything, thank you",
+      "human": "Thanks a lot"
+    }
+  ],
+  "Hotel": [
+    {
+      "bot": "How can I help you",
+      "human": "I need a hotel in New York"
+    },
+    {
+      "bot": "What dates",
+      "human": "October twentieth to twenty fifth"
+    },
+    {
+      "bot": "Single or double room",
+      "human": "Double, please"
+    },
+    {
+      "bot": "How many guests",
+      "human": "Two guests"
+    },
+    {
+      "bot": "Do you need breakfast included",
+      "human": "Yes, please"
+    },
+    {
+      "bot": "Do you need airport transfer",
+      "human": "No, thank you"
+    },
+    {
+      "bot": "Any preference for room view",
+      "human": "City view would be nice"
+    },
+    {
+      "bot": "Would you need extra pillows or blankets",
+      "human": "No, that is fine"
+    },
+    {
+      "bot": "Do you have any loyalty membership",
+      "human": "No, I do not"
+    },
+    {
+      "bot": "Your booking is complete, enjoy your stay",
+      "human": "Thank you"
+    }
+  ],
+  "Support": [
+    {
+      "bot": "Welcome to tech support, how can I help",
+      "human": "My computer will not turn on"
+    },
+    {
+      "bot": "Did you check the power",
+      "human": "Yes"
+    },
+    {
+      "bot": "Try holding the power button",
+      "human": "I am doing that"
+    },
+    {
+      "bot": "Is there any response",
+      "human": "Not yet"
+    },
+    {
+      "bot": "Let us try unplugging it and then plugging it back in",
+      "human": "Okay, done"
+    },
+    {
+      "bot": "Now try turning it on again",
+      "human": "Still nothing"
+    },
+    {
+      "bot": "Can you check if the battery is properly connected",
+      "human": "Yes, it is"
+    },
+    {
+      "bot": "We may need to look into the power adapter",
+      "human": "I will try a different one"
+    },
+    {
+      "bot": "Is it working now",
+      "human": "Yes, it started"
+    },
+    {
+      "bot": "Great, anything else I can help with",
+      "human": "No, thank you"
+    }
+  ]
+}
