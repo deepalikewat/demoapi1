@@ -82,7 +82,7 @@
     },
     {
       "bot": "Two-row or three-row seating",
-      "human": "Two-row"
+      "human": "Two row"
     },
     {
       "bot": "Any additional accessories needed",
@@ -104,7 +104,7 @@
     },
     {
       "bot": "How many guests",
-      "human": "Three"
+      "human": "Three guests"
     },
     {
       "bot": "Do you need breakfast included",
